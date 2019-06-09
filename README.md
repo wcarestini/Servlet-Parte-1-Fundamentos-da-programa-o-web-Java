@@ -10,7 +10,7 @@
 <p>Segue os links caso queira visualizar o projeto até aqui (Para remover e editar empresa, basta acessar o /listaempresas), a continuação será feita em outro repositorio, que será referente ao curso parte 2 de servlet.</p>
 
 <ul>
-	<li>127.0.0.1/gerenciador</li>
+	<li>http://127.0.0.1/gerenciador</li>
 	<li>http://127.0.0.1/gerenciador/formNovaEmpresa.jsp (Para adicioar empresa)</li>
 	<li>http://127.0.0.1/gerenciador/listaempresas</li>
 </ul>
